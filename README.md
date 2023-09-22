@@ -3,8 +3,11 @@
 ## Descripción
 El "Evita el Caos" es un emocionante juego de arcade en el que debes esquivar obstáculos y enemigos mientras intentas conseguir la puntuación más alta. ¡Pon a prueba tus reflejos y habilidades de esquivar en este desafío adictivo!
 
-## Capturas de Pantalla
-(Inserta capturas de pantalla de tu juego aquí, si lo deseas)
+## Overview
+<!-- inserta imagen del assets -->
+![Evita el Caos](assets/images/view1.png)
+![Evita el Caos](assets/images/view2.png)
+
 
 ## Instrucciones
 1. **Requisitos previos**
@@ -37,6 +40,6 @@ El "Evita el Caos" es un emocionante juego de arcade en el que debes esquivar ob
    - Presiona la tecla "Q" para salir del juego.
 
 ## Créditos
-- Desarrollado por [Pedro Agames R.]
+- Desarrollado por Pedro Agames R.
 
 ¡Diviértete jugando!
